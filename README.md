@@ -3,6 +3,7 @@
 Test GitHub costam 
 moje costam
 asdf
+ZMIENIONY PLIK 
 =======
 Test GitHub costam
 costam2
